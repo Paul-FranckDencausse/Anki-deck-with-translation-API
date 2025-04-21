@@ -1,0 +1,1 @@
+# Anki-deck-with-translation-API
